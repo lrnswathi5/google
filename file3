@@ -7,4 +7,5 @@
 <javas srcdir="src" destdir="classes"/>
 </target>
 
+<target/>
 </project>
