@@ -1,1 +1,7 @@
-this for the git version
+<project name="navya">
+
+<target name="compile">
+
+</target>
+
+</project>
